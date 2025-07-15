@@ -1,3 +1,5 @@
+<img width="1915" height="817" alt="PokeMMO PVP Helper Imagen" src="https://github.com/user-attachments/assets/26db5fbf-84b3-4c00-a969-2863df98c78c" />
+
 Español
 ---------------------------------------------------------------------------------------------------------------------------
 La primera vez que abres el programa puede llegar a tardar hasta 2 minutos en abrir, después de la primera
@@ -11,7 +13,6 @@ no puede detectar el Pokémon.
 Puede que algún Pokémon no te lo sepa leer bien, si es así por favor puedes comunicármelo, incluso si falta alguno.
 
 Eso es todo, disfruta.
-
 
 
 English
