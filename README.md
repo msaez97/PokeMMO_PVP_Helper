@@ -2,6 +2,8 @@
 
 Español
 ---------------------------------------------------------------------------------------------------------------------------
+POKEMMO PVP HELPER TE DICE EN TIEMPO REAL TANTO TUS DEBILIDADES COMO LAS DEL RIVAL SIN TU TOCAR NADA, SE ACTUALIZA SOLO.
+
 La primera vez que abres el programa puede llegar a tardar hasta 2 minutos en abrir, después de la primera
 apertura ya tarda menos.
 
@@ -17,6 +19,8 @@ Eso es todo, disfruta.
 
 English
 ---------------------------------------------------------------------------------------------------------------------------
+POKEMMO PVP HELPER TELLS YOU IN REAL TIME BOTH YOUR WEAKNESSES AND THOSE OF YOUR OPPONENT WITHOUT YOU TOUCHING ANYTHING, IT UPDATES ITSELF.
+
 The first time you open the program, it may take up to 2 minutes to open; after the first opening, it takes less time.
 
 There's a shortcut in the folder if you want to put it on the desktop.
