@@ -11,7 +11,7 @@ no puede detectar el Pokémon.
 Puede que algún Pokémon no te lo sepa leer bien, si es así por favor puedes comunicármelo, incluso si falta alguno.
 
 Eso es todo, disfruta.
----------------------------------------------------------------------------------------------------------------------------
+
 
 
 English
@@ -25,4 +25,4 @@ Never place the window in front of the Pokémon names, both yours and your oppon
 You may not be able to read some Pokémon correctly. If so, please let me know, even if one is missing.
 
 That's all, enjoy!
----------------------------------------------------------------------------------------------------------------------------
+
