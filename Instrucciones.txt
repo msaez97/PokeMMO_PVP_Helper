@@ -1,0 +1,11 @@
+La primera vez que abres el programa puede llegar a tardar hasta 2 minutos en abrir, después de la primera
+apertura ya tarda menos.
+
+Tienes un acceso directo en la carpeta por si quieres ponerlo en el escritorio.
+
+Nunca pongas la ventana delante de los nombres de los Pokémon, tanto tuyo como del rival, si no,
+no puede detectar el Pokémon.
+
+Puede que algún Pokémon no te lo sepa leer bien, si es así por favor puedes comunicármelo, incluso si falta alguno.
+
+Eso es todo, disfruta.

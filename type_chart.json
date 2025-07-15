@@ -1,0 +1,87 @@
+{
+  "Normal": {
+    "weak": ["Fighting"],
+    "immune": ["Ghost"],
+    "resist": []
+  },
+  "Fire": {
+    "weak": ["Water", "Rock", "Ground"],
+    "immune": [],
+    "resist": ["Fire", "Grass", "Ice", "Bug", "Steel"]
+  },
+  "Water": {
+    "weak": ["Electric", "Grass"],
+    "immune": [],
+    "resist": ["Fire", "Water", "Ice", "Steel"]
+  },
+  "Electric": {
+    "weak": ["Ground"],
+    "immune": [],
+    "resist": ["Electric", "Flying", "Steel"]
+  },
+  "Grass": {
+    "weak": ["Fire", "Ice", "Poison", "Flying", "Bug"],
+    "immune": [],
+    "resist": ["Water", "Grass", "Electric", "Ground"]
+  },
+  "Ice": {
+    "weak": ["Fire", "Fighting", "Rock", "Steel"],
+    "immune": [],
+    "resist": ["Ice"]
+  },
+  "Fighting": {
+    "weak": ["Flying", "Psychic"],
+    "immune": [],
+    "resist": ["Bug", "Rock", "Dark"]
+  },
+  "Poison": {
+    "weak": ["Ground", "Psychic"],
+    "immune": [],
+    "resist": ["Grass", "Fighting", "Poison", "Bug"]
+  },
+  "Ground": {
+    "weak": ["Water", "Ice", "Grass"],
+    "immune": ["Electric"],
+    "resist": ["Poison", "Rock"]
+  },
+  "Flying": {
+    "weak": ["Electric", "Ice", "Rock"],
+    "immune": ["Ground"],
+    "resist": ["Grass", "Fighting", "Bug"]
+  },
+  "Psychic": {
+    "weak": ["Bug", "Ghost", "Dark"],
+    "immune": [],
+    "resist": ["Fighting", "Psychic"]
+  },
+  "Bug": {
+    "weak": ["Fire", "Flying", "Rock"],
+    "immune": [],
+    "resist": ["Grass", "Fighting", "Ground"]
+  },
+  "Rock": {
+    "weak": ["Water", "Grass", "Fighting", "Ground", "Steel"],
+    "immune": [],
+    "resist": ["Normal", "Fire", "Poison", "Flying"]
+  },
+  "Ghost": {
+    "weak": ["Ghost", "Dark"],
+    "immune": ["Normal", "Fighting"],
+    "resist": ["Poison", "Bug"]
+  },
+  "Dragon": {
+    "weak": ["Ice", "Dragon"],
+    "immune": [],
+    "resist": ["Fire", "Water", "Electric", "Grass"]
+  },
+  "Dark": {
+    "weak": ["Fighting", "Bug"],
+    "immune": ["Psychic"],
+    "resist": ["Ghost", "Dark"]
+  },
+  "Steel": {
+    "weak": ["Fire", "Fighting", "Ground"],
+    "immune": ["Poison"],
+    "resist": ["Normal", "Grass", "Ice", "Flying", "Psychic", "Bug", "Rock", "Dragon", "Steel"]
+  }
+}
